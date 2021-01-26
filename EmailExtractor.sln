@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "EmailExtractor", "EmailExtractor\EmailExtractor.vbproj", "{13FDFBE5-3168-4173-A962-8DE20E22024E}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://ggerminiani.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = EmailExtractor\\EmailExtractor.vbproj
+		SccProjectName1 = EmailExtractor
+		SccLocalPath1 = EmailExtractor
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13FDFBE5-3168-4173-A962-8DE20E22024E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13FDFBE5-3168-4173-A962-8DE20E22024E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13FDFBE5-3168-4173-A962-8DE20E22024E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13FDFBE5-3168-4173-A962-8DE20E22024E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
