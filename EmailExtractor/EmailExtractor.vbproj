@@ -69,10 +69,11 @@
     <ApplicationIcon>1478661369_mail_email_envelope_send_message.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>8A206B2FA57224FC7A3DB3882093E551B03ABC0F</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>7A43B4A07A8971655159D2798AC023DA35BBE4F9</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestKeyFile>EmailExtractor_TemporaryKey.pfx</ManifestKeyFile>
+    <ManifestKeyFile>
+    </ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
     <GenerateManifests>true</GenerateManifests>
